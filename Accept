@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Accept</title>
+</head>
+
+<body topmargin="15px">
+
+  <div style="display:inline;margin: 25px;padding:25px; ">
+    <div>
+      <label style="display: block; blue; margin:1% 25px; "><b>Choose a movie to upload:</b></label>
+
+      <input type="file" style="display:inline; margin:0% 25px;">
+    </div>
+    <br>
+    <div>
+      <label style="display: block;  margin:1% 25px;"><b>Choose a poster:</b></label>
+
+      <input type="file" style="display:inline; margin:0% 25px">
+    </div>
+  </div>
+
+</body>
+
+</html>
